@@ -1,0 +1,107 @@
+{
+    "messages": [],
+    "see_also": [],
+    "version": "4.1",
+    "data_call_name": "whois",
+    "data_call_status": "supported",
+    "cached": false,
+    "data": {
+        "records": [
+            [
+                {
+                    "key": "aut-num",
+                    "value": "24429",
+                    "details_link": "https://stat.ripe.net/AS24429"
+                },
+                {
+                    "key": "as-name",
+                    "value": "Taobao",
+                    "details_link": null
+                },
+                {
+                    "key": "descr",
+                    "value": "Zhejiang Taobao Network Co.,Ltd",
+                    "details_link": null
+                },
+                {
+                    "key": "descr",
+                    "value": "2nd floor, Westlake International technology Building",
+                    "details_link": null
+                },
+                {
+                    "key": "descr",
+                    "value": "391Wener Road, Hangzhou, China",
+                    "details_link": null
+                },
+                {
+                    "key": "country",
+                    "value": "CN",
+                    "details_link": null
+                },
+                {
+                    "key": "admin-c",
+                    "value": "ZM678-AP",
+                    "details_link": null
+                },
+                {
+                    "key": "tech-c",
+                    "value": "ZM877-AP",
+                    "details_link": null
+                },
+                {
+                    "key": "tech-c",
+                    "value": "ZM876-AP",
+                    "details_link": null
+                },
+                {
+                    "key": "tech-c",
+                    "value": "ZM875-AP",
+                    "details_link": null
+                },
+                {
+                    "key": "abuse-c",
+                    "value": "AC1601-AP",
+                    "details_link": null
+                },
+                {
+                    "key": "mnt-routes",
+                    "value": "MAINT-CNNIC-AP",
+                    "details_link": null
+                },
+                {
+                    "key": "mnt-by",
+                    "value": "MAINT-CNNIC-AP",
+                    "details_link": null
+                },
+                {
+                    "key": "mnt-irt",
+                    "value": "IRT-TAOBAO-CN",
+                    "details_link": null
+                },
+                {
+                    "key": "last-modified",
+                    "value": "2023-11-28T00:58:30Z",
+                    "details_link": null
+                },
+                {
+                    "key": "source",
+                    "value": "APNIC",
+                    "details_link": null
+                }
+            ]
+        ],
+        "irr_records": [],
+        "authorities": [
+            "apnic"
+        ],
+        "resource": "24429",
+        "query_time": "2024-12-09T17:29:00"
+    },
+    "query_id": "20241209172951-3b18bfee-ff4a-4529-b0b2-969dde3aac28",
+    "process_time": 53,
+    "server_id": "app117",
+    "build_version": "live.2024.12.4.236",
+    "status": "ok",
+    "status_code": 200,
+    "time": "2024-12-09T17:29:51.869569"
+}
